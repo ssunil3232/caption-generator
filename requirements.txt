@@ -56,9 +56,10 @@ tokenizers==0.15.2
 toml==0.10.2
 toolz==0.12.1
 torch==2.2.2
+torchvision==0.17.2
 tornado==6.4
 tqdm==4.66.2
-transformers @ git+https://github.com/huggingface/transformers@51bcadc10a569847b93a30dbe3a077037ae63bad
-typing_extensions==4.11.0
+transformers>=4.30.0
+typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.1
